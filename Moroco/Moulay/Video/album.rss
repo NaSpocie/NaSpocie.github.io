@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Moulay Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Moulay 2009</title>
+            <link>Moulay 2009.flv</link>
+            <pubDate>Mon, 27 Jul 2009 19:01:46 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Moulay 2009" ® by JacekS</description>
+            <media:description type="html">"Moulay 2009" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/Moulay 2009.jpg" width="124" height="93"/>
+            <media:content url="slides/Moulay 2009.jpg" width="300" height="225"/>
+            <jalbum:original url="Moulay 2009.flv" width="300" height="225" fileSize="31811263"/>
+            <guid isPermaLink="false">slides/Moulay 2009.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Moulay wave clinic with Tom Brendt</title>
+            <link>Moulay wave clinic with Tom Brendt.flv</link>
+            <pubDate>Mon, 27 Jul 2009 19:01:46 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Moulay Wave Clinic with Tom Brendt" ® by Tom Brendt</description>
+            <media:description type="html">"Moulay Wave Clinic with Tom Brendt" ® by Tom Brendt</media:description>
+            
+            <media:thumbnail url="thumbs/Moulay wave clinic with Tom Brendt.jpg" width="124" height="93"/>
+            <media:content url="slides/Moulay wave clinic with Tom Brendt.jpg" width="300" height="225"/>
+            <jalbum:original url="Moulay wave clinic with Tom Brendt.flv" width="300" height="225" fileSize="17324038"/>
+            <guid isPermaLink="false">slides/Moulay wave clinic with Tom Brendt.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

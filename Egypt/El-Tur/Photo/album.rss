@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>El-Tur Photo</title>
+   	<link>.</link>
+   	
+        
+    	<jalbum:link rel="sub" href="2004-12/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2005-06/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2005-10/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2006-05/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2007-06/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2007-10/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2008-10/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2009-10/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2010-09/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2011-08/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

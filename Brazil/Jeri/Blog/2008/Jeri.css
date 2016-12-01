@@ -1,0 +1,137 @@
+@import url("file:///C|/Majka/Brazylia/Jeri/Css/navtekst.css");
+body {
+	background-color: #CCCCCC;
+}
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FF6600;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+#Layer1 {
+	position:absolute;
+	left:328px;
+	top:95px;
+	width:524px;
+	height:53px;
+	z-index:1;
+}
+a:link {
+	text-decoration: none;
+	color: #003366;
+}
+a:visited {
+	text-decoration: none;
+	color: #000066;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style3 {padding-left: 0px; margin-top: 20px; padding-bottom: 10px; margin-bottom: 20px; top: 30px; padding-top: 10px;}
+.style5 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-right: 20px;
+	color: #000000;
+}
+.linia {
+	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #FF9900;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.liniaorange {
+	background-color: #666666;
+	border-top-width: 3px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 3px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #FF9900;
+	border-right-color: #FF9900;
+	border-bottom-color: #FF9900;
+	border-left-color: #FF9900;
+	width: 135px;
+}
+.tabela {
+	clear: left;
+	float: none;
+	height: auto;
+	width: 135px;
+	text-align: left;
+	vertical-align: top;
+}
+.menuTop {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	color: #003366;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	line-height: 16px;
+	font-weight: bold;
+	background-image: url(Templates/fala.gif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: left top;
+	position: fixed;
+	height: auto;
+	width: 121px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+.linianavTop {
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #307E8F;
+	background: #FFFFFF;
+}
+.body {
+	width: 95%;
+}
+.topmenucenter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(Templates/fala_top2.gif);
+	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+	position: fixed;
+	line-height: 16px;
+	height: auto;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	vertical-align: middle;
+	width: 121px;
+}
+.topMenuLeft {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: bold;
+	background-image: url(Templates/fala_top3.gif);
+	background-repeat: no-repeat;
+	position: fixed;
+	color: #003366;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	vertical-align: middle;
+	width: 122px;
+}

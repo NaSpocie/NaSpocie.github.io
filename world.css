@@ -1,0 +1,8 @@
+.world {
+	background-attachment: scroll;
+	background-color: #999999;
+	background-repeat: no-repeat;
+	background-position: center top;
+	border: medium solid #FFFFFF;
+	top: 10px;
+}

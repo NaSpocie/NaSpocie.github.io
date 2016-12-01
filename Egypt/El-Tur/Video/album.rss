@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>El-Tur Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>360 sposobów na 360</title>
+            <link>360.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>360 sposobów na 360</description>
+            <media:description type="html">360 sposobów na 360</media:description>
+            
+            <media:thumbnail url="thumbs/360.jpg" width="124" height="93"/>
+            <media:content url="slides/360.jpg" width="640" height="480"/>
+            <jalbum:original url="360.flv" width="640" height="480" fileSize="4954567"/>
+            <guid isPermaLink="false">slides/360.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Ach, ten Rene</title>
+            <link>El Tur June 2005.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Ach, ten Rene" ® by JacekS</description>
+            <media:description type="html">"Ach, ten Rene" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur June 2005.jpg" width="124" height="93"/>
+            <media:content url="slides/El Tur June 2005.jpg" width="160" height="120"/>
+            <jalbum:original url="El Tur June 2005.flv" width="160" height="120" fileSize="92265873"/>
+            <guid isPermaLink="false">slides/El Tur June 2005.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Wave</title>
+            <link>El Tur June 2005 Wave.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Wave" ® by JacekS</description>
+            <media:description type="html">"Wave" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur June 2005 Wave.jpg" width="124" height="92"/>
+            <media:content url="slides/El Tur June 2005 Wave.jpg" width="226" height="169"/>
+            <jalbum:original url="El Tur June 2005 Wave.flv" width="226" height="169" fileSize="40834259"/>
+            <guid isPermaLink="false">slides/El Tur June 2005 Wave.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Się działo ze szwagrem</title>
+            <link>El Tur May 2006.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Się działo ze szwagrem" ® by JacekS</description>
+            <media:description type="html">"Się działo ze szwagrem" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur May 2006.jpg" width="124" height="93"/>
+            <media:content url="slides/El Tur May 2006.jpg" width="300" height="225"/>
+            <jalbum:original url="El Tur May 2006.flv" width="300" height="225" fileSize="46978842"/>
+            <guid isPermaLink="false">slides/El Tur May 2006.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Daleko od Żywca</title>
+            <link>El Tur June 2007.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Daleko od Żywca" ® by JacekS</description>
+            <media:description type="html">"Daleko od Żywca" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur June 2007.jpg" width="123" height="92"/>
+            <media:content url="slides/El Tur June 2007.jpg" width="282" height="211"/>
+            <jalbum:original url="El Tur June 2007.flv" width="282" height="211" fileSize="41410964"/>
+            <guid isPermaLink="false">slides/El Tur June 2007.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Dialogi niedobre, bardzo niedobre dialogi</title>
+            <link>El Tur October 2007.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Dialogi niedobre, bardzo niedobre dialogi" ® by JacekS</description>
+            <media:description type="html">"Dialogi niedobre, bardzo niedobre dialogi" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur October 2007.jpg" width="124" height="93"/>
+            <media:content url="slides/El Tur October 2007.jpg" width="300" height="225"/>
+            <jalbum:original url="El Tur October 2007.flv" width="300" height="225" fileSize="43561659"/>
+            <guid isPermaLink="false">slides/El Tur October 2007.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Go to the POINT</title>
+            <link>El Tur October 2008.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Go to the POINT" ® by JacekS</description>
+            <media:description type="html">"Go to the POINT" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur October 2008.jpg" width="124" height="93"/>
+            <media:content url="slides/El Tur October 2008.jpg" width="266" height="200"/>
+            <jalbum:original url="El Tur October 2008.flv" width="266" height="200" fileSize="73311959"/>
+            <guid isPermaLink="false">slides/El Tur October 2008.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Co Ty wiesz o czekaniu</title>
+            <link>El Tur October 2009.flv</link>
+            <pubDate>Sat, 07 Nov 2009 11:08:03 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Co Ty wiesz o czekaniu" ® by JacekS</description>
+            <media:description type="html">"Co Ty wiesz o czekaniu" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/El Tur October 2009.jpg" width="124" height="93"/>
+            <media:content url="slides/El Tur October 2009.jpg" width="300" height="225"/>
+            <jalbum:original url="El Tur October 2009.flv" width="300" height="225" fileSize="34643928"/>
+            <guid isPermaLink="false">slides/El Tur October 2009.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

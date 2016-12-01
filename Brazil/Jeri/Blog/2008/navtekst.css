@@ -1,0 +1,49 @@
+.navtekst {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #003399;
+	font-weight: bold;
+	background-position: left center;
+}
+.Tytul {
+	padding-top: 10px;
+	padding-left: 0px;
+	margin-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	top: 30px;
+	color: #FF6600;
+	font-size: 22px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.navbottom {
+	border-bottom-style: solid;
+	border-bottom-color: #C0DFFC;
+	border-bottom-width: 2px;
+}
+.navarrows {
+	background-image: url(file:///C|/Majka/Brazylia/Jeri/images/mm_arrow.gif);
+	background-repeat: no-repeat;
+	background-position: 14px center;
+	padding-top: 8px;
+	padding-right: 6px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	border-bottom-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-attachment: fixed;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: bold;
+	color: #003366;
+}
+.fotkadol {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Jeri Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Jeri 2008</title>
+            <link>Jeri 2008.flv</link>
+            <pubDate>Sun, 26 Dec 2010 21:13:59 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/Jeri 2008.jpg" width="124" height="93"/>
+            <media:content url="slides/Jeri 2008.jpg" width="300" height="225"/>
+            <jalbum:original url="Jeri 2008.flv" width="300" height="225" fileSize="97478418"/>
+            <guid isPermaLink="false">slides/Jeri 2008.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Jeri 2009</title>
+            <link>Jeri 2009.flv</link>
+            <pubDate>Sun, 26 Dec 2010 21:13:59 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/Jeri 2009.jpg" width="124" height="93"/>
+            <media:content url="slides/Jeri 2009.jpg" width="300" height="225"/>
+            <jalbum:original url="Jeri 2009.flv" width="300" height="225" fileSize="73964859"/>
+            <guid isPermaLink="false">slides/Jeri 2009.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

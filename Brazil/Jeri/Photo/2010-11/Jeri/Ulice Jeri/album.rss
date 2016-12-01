@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Ulice Jeri</title>
+   	<link>../../..</link>
+   	
+        
+        
+        <item>
+            <title>IMG_0608</title>
+            <link>slides/IMG_0608.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0608.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0608.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0608.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1052</title>
+            <link>slides/IMG_1052.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1052.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1052.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1052.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1053</title>
+            <link>slides/IMG_1053.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1053.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1053.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1053.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1055</title>
+            <link>slides/IMG_1055.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1055.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1055.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1055.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1312</title>
+            <link>slides/IMG_1312.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1312.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1312.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1312.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1313</title>
+            <link>slides/IMG_1313.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1313.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1313.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1313.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_1319</title>
+            <link>slides/IMG_1319.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:27 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_1319.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_1319.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_1319.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

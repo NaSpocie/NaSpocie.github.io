@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Naxos Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Instruktor Gregory</title>
+            <link>Naxos August 2007.flv</link>
+            <pubDate>Sat, 07 Nov 2009 19:58:33 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Instruktor Gregory" ® by JacekS</description>
+            <media:description type="html">"Instruktor Gregory" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/Naxos August 2007.jpg" width="124" height="82"/>
+            <media:content url="slides/Naxos August 2007.jpg" width="300" height="200"/>
+            <jalbum:original url="Naxos August 2007.flv" width="300" height="200" fileSize="62673966"/>
+            <guid isPermaLink="false">slides/Naxos August 2007.jpg</guid>
+        </item>
+        
+        <item>
+            <title>"Czy było warto ?"</title>
+            <link>Naxos 2007.flv</link>
+            <pubDate>Sat, 07 Nov 2009 19:58:33 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Czy było warto ?"</description>
+            <media:description type="html">"Czy było warto ?"</media:description>
+            
+            <media:thumbnail url="thumbs/Naxos 2007.jpg" width="124" height="93"/>
+            <media:content url="slides/Naxos 2007.jpg" width="640" height="480"/>
+            <jalbum:original url="Naxos 2007.flv" width="640" height="480" fileSize="38610667"/>
+            <guid isPermaLink="false">slides/Naxos 2007.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Naxos August 2008</title>
+            <link>Naxos August 2008.flv</link>
+            <pubDate>Sat, 07 Nov 2009 19:58:33 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Pozwiedzać, pojeść, może też coś porobić.." ® by JacekS</description>
+            <media:description type="html">"Pozwiedzać, pojeść, może też coś porobić.." ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/Naxos August 2008.jpg" width="124" height="82"/>
+            <media:content url="slides/Naxos August 2008.jpg" width="300" height="200"/>
+            <jalbum:original url="Naxos August 2008.flv" width="300" height="200" fileSize="66511235"/>
+            <guid isPermaLink="false">slides/Naxos August 2008.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

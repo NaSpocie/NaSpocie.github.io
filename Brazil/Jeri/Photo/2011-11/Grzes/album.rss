@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Grzes</title>
+   	<link>../..</link>
+   	
+        
+        
+        <item>
+            <title>IMG_0016</title>
+            <link>slides/IMG_0016.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0016.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0016.JPG" width="800" height="531"/>
+            
+            <guid isPermaLink="false">slides/IMG_0016.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0486</title>
+            <link>slides/IMG_0486.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0486.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0486.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0486.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0488</title>
+            <link>slides/IMG_0488.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0488.JPG" width="82" height="124"/>
+            <media:content url="slides/IMG_0488.JPG" width="533" height="800"/>
+            
+            <guid isPermaLink="false">slides/IMG_0488.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0502</title>
+            <link>slides/IMG_0502.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0502.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0502.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0502.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0530</title>
+            <link>slides/IMG_0530.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0530.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0530.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0530.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0539</title>
+            <link>slides/IMG_0539.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0539.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0539.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0539.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0804</title>
+            <link>slides/IMG_0804.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0804.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0804.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0804.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0810</title>
+            <link>slides/IMG_0810.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:09:44 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0810.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0810.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0810.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

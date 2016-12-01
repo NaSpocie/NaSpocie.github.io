@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2005-07-17</title>
+   	<link>..</link>
+   	
+        
+        
+        <item>
+            <title>img_0467</title>
+            <link>slides/img_0467.html</link>
+            <pubDate>Mon, 27 Jul 2009 19:37:13 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0467.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0467.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0467.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0475</title>
+            <link>slides/img_0475.html</link>
+            <pubDate>Mon, 27 Jul 2009 19:37:13 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0475.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0475.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0475.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0476</title>
+            <link>slides/img_0476.html</link>
+            <pubDate>Mon, 27 Jul 2009 19:37:13 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0476.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0476.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0476.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0477</title>
+            <link>slides/img_0477.html</link>
+            <pubDate>Mon, 27 Jul 2009 19:37:13 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0477.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0477.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0477.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0482</title>
+            <link>slides/img_0482.html</link>
+            <pubDate>Mon, 27 Jul 2009 19:37:13 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0482.jpg" width="82" height="124"/>
+            <media:content url="slides/img_0482.jpg" width="533" height="800"/>
+            
+            <guid isPermaLink="false">slides/img_0482.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

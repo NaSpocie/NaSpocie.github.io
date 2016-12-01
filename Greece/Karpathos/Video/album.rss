@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Karpathos Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Chłopie, tu trzeba z pełnym zaangażowaniem !</title>
+            <link>Karpathos 2006.flv</link>
+            <pubDate>Sat, 07 Nov 2009 20:01:32 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Chłopie, tu trzeba z pełnym zaangażowaniem !"</description>
+            <media:description type="html">"Chłopie, tu trzeba z pełnym zaangażowaniem !"</media:description>
+            
+            <media:thumbnail url="thumbs/Karpathos 2006.jpg" width="124" height="93"/>
+            <media:content url="slides/Karpathos 2006.jpg" width="640" height="480"/>
+            <jalbum:original url="Karpathos 2006.flv" width="640" height="480" fileSize="30184684"/>
+            <guid isPermaLink="false">slides/Karpathos 2006.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

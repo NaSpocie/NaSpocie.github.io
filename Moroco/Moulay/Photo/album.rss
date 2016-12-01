@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Moulay Photo</title>
+   	<link>.</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Magic Fun Africa/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Miejsce/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Spot/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Wave Clinic/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="WS/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

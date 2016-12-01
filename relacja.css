@@ -1,0 +1,24 @@
+.tytul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	background-color: #FFFFFF;
+	padding: 3px;
+	left: 5px;
+	right: 5px;
+	color: #FF9933;
+}
+.tekst {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	background-color: #FFFFFF;
+	letter-spacing: normal;
+	word-spacing: normal;
+	position: fixed;
+	height: auto;
+	width: auto;
+	clip: rect(auto,auto,auto,auto);
+	padding: 8px;
+	line-height: normal;
+}

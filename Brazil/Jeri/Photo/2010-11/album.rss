@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2010-11</title>
+   	<link>..</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Jeri/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Lizbona/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Windsurfing/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

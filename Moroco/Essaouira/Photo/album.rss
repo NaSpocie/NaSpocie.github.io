@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Essaouira Photo</title>
+   	<link>.</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Artystyczne/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Hotel Chateau Mogador/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Medina/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Miasto/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Zatoka/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="WS/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

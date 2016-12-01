@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Essaouira Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Essaouira 2009</title>
+            <link>Essaouira 2009.flv</link>
+            <pubDate>Mon, 27 Jul 2009 19:00:08 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Essaouira 2009" ® by JacekS</description>
+            <media:description type="html">"Essaouira 2009" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/Essaouira 2009.jpg" width="124" height="92"/>
+            <media:content url="slides/Essaouira 2009.jpg" width="300" height="224"/>
+            <jalbum:original url="Essaouira 2009.flv" width="300" height="224" fileSize="17612607"/>
+            <guid isPermaLink="false">slides/Essaouira 2009.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

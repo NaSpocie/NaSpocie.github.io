@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2009-08</title>
+   	<link>..</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Jeri/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Jijoca/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Lizbona/album.rss" />   	
+    	
+        
+        <item>
+            <title>img_0025</title>
+            <link>slides/img_0025.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0025.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0025.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0025.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0026</title>
+            <link>slides/img_0026.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0026.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0026.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0026.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0028</title>
+            <link>slides/img_0028.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0028.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0028.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0028.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0030</title>
+            <link>slides/img_0030.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0030.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0030.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0030.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0037</title>
+            <link>slides/img_0037.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0037.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0037.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0037.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0042</title>
+            <link>slides/img_0042.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0042.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0042.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0042.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0044</title>
+            <link>slides/img_0044.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0044.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0044.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0044.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0046</title>
+            <link>slides/img_0046.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0046.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0046.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0046.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0064</title>
+            <link>slides/img_0064.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0064.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0064.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0064.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0068</title>
+            <link>slides/img_0068.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0068.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0068.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0068.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0069</title>
+            <link>slides/img_0069.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0069.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0069.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0069.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0080</title>
+            <link>slides/img_0080.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0080.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0080.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0080.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0087</title>
+            <link>slides/img_0087.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0087.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0087.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0087.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0092</title>
+            <link>slides/img_0092.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0092.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0092.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0092.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0106</title>
+            <link>slides/img_0106.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0106.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0106.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0106.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0107</title>
+            <link>slides/img_0107.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0107.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0107.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0107.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0112</title>
+            <link>slides/img_0112.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0112.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0112.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0112.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0121</title>
+            <link>slides/img_0121.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0121.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0121.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0121.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0122</title>
+            <link>slides/img_0122.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0122.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0122.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0122.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0123</title>
+            <link>slides/img_0123.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0123.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0123.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0123.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0127</title>
+            <link>slides/img_0127.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0127.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0127.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0127.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0129</title>
+            <link>slides/img_0129.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0129.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0129.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0129.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0132</title>
+            <link>slides/img_0132.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0132.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0132.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0132.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0133</title>
+            <link>slides/img_0133.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0133.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0133.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0133.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0134</title>
+            <link>slides/img_0134.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0134.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0134.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0134.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0135</title>
+            <link>slides/img_0135.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0135.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0135.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0135.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0137</title>
+            <link>slides/img_0137.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0137.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0137.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0137.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0158</title>
+            <link>slides/img_0158.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0158.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0158.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0158.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0162_1 (1)</title>
+            <link>slides/IMG_0162_1 (1).html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0162_1 (1).JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0162_1 (1).JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0162_1 (1).JPG</guid>
+        </item>
+        
+        <item>
+            <title>img_0181</title>
+            <link>slides/img_0181.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0181.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0181.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0181.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0195</title>
+            <link>slides/img_0195.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0195.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0195.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0195.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0203</title>
+            <link>slides/img_0203.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0203.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0203.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0203.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0205</title>
+            <link>slides/img_0205.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0205.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0205.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0205.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0209</title>
+            <link>slides/img_0209.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0209.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0209.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0209.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0219</title>
+            <link>slides/img_0219.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0219.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0219.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0219.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0230</title>
+            <link>slides/img_0230.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0230.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0230.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0230.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0236</title>
+            <link>slides/img_0236.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0236.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0236.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0236.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0239</title>
+            <link>slides/img_0239.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0239.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0239.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0239.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0243_1 (2)</title>
+            <link>slides/IMG_0243_1 (2).html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0243_1 (2).JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0243_1 (2).JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0243_1 (2).JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0243_1 (5)</title>
+            <link>slides/IMG_0243_1 (5).html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0243_1 (5).JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0243_1 (5).JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0243_1 (5).JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0243_1</title>
+            <link>slides/IMG_0243_1.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0243_1.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0243_1.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0243_1.JPG</guid>
+        </item>
+        
+        <item>
+            <title>img_0244</title>
+            <link>slides/img_0244.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0244.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0244.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0244.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0255</title>
+            <link>slides/img_0255.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0255.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0255.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0255.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0257</title>
+            <link>slides/img_0257.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0257.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0257.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0257.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0261</title>
+            <link>slides/img_0261.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0261.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0261.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0261.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0264</title>
+            <link>slides/img_0264.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0264.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0264.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0264.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0267</title>
+            <link>slides/img_0267.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0267.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0267.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0267.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0273</title>
+            <link>slides/img_0273.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0273.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0273.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0273.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0278</title>
+            <link>slides/img_0278.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0278.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0278.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0278.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0284</title>
+            <link>slides/img_0284.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0284.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0284.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0284.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0285</title>
+            <link>slides/img_0285.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0285.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0285.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0285.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0300</title>
+            <link>slides/img_0300.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0300.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0300.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0300.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0329</title>
+            <link>slides/img_0329.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0329.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0329.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0329.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0362</title>
+            <link>slides/img_0362.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0362.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0362.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0362.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0363</title>
+            <link>slides/img_0363.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0363.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0363.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0363.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0365</title>
+            <link>slides/img_0365.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0365.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0365.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0365.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0366</title>
+            <link>slides/img_0366.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0366.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0366.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0366.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0411</title>
+            <link>slides/img_0411.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0411.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0411.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0411.jpg</guid>
+        </item>
+        
+        <item>
+            <title>img_0429</title>
+            <link>slides/img_0429.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:14 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/img_0429.jpg" width="124" height="82"/>
+            <media:content url="slides/img_0429.jpg" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/img_0429.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

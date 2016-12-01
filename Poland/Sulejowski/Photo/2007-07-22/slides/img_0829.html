@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+<!-- saved from url=(0013)about:internet -->
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<meta name="Keywords" content="photo,album,gallery,2007-07-22,img_0829">
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)">
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)">
+<TITLE>Sulejow Photo/2007-07-22/img_0829</TITLE>
+<script language="JavaScript" src="../../res/embedmovie.js" type="text/javascript"></script>
+<script language="javascript" type="text/javascript">
+function keypress(e) {
+	if(!e) var e=window.event;
+	if(e.keyCode) keyCode=e.keyCode; 
+	else if(e.which) keyCode=e.which;
+	switch(keyCode) {
+		case 8: window.location="../index2.html"; return false; break;
+		case 63235: case 39: window.location="img_0830.html"; return false; break;
+		case 63234: case 37: window.location="img_0825.html"; return false; break;
+		case 63273: case 36: window.location="img_0770.html"; return false; break;
+		case 63275: case 35: window.location="img_0786.html"; return false; break;
+		case 32: show_down(); setTimeout('show_out()', 200); return false; break;
+	}
+	return true;
+}
+function keypresslistener() {
+  if(document.all) { document.onkeydown = keypress; }
+  else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+idx0 = new Image(31,31); idx0.src = "../../res/idx.gif";
+idx1 = new Image(31,31); idx1.src = "../../res/idx1.gif";
+next0 = new Image(31,31);next0.src = "../../res/next.gif";
+next1 = new Image(31,31);next1.src = "../../res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "../../res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "../../res/prev1.gif";
+
+show0 = new Image(31,31);show0.src = "../../res/show.gif";
+show1 = new Image(31,31);show1.src = "../../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../../res/stop1.gif";
+
+var show_param = -1; // stopped
+if (window.location.search.length > 1) {
+	var parms = window.location.search.substring(1,location.search.length).split("&");
+	for (var i = 0; i < parms.length; i++) {		
+		if(parms[i].substring(0, parms[i].indexOf("=")) == "show_param") 
+			delay = show_param = parms[i].substring(parms[i].indexOf("=") + 1, parms[i].length);
+	}
+}
+var show_delay = show_param;
+function show_timer() {
+	if (show_delay >= 0) {
+		show_delay--;
+		if (show_delay < 0 && show_param > 0) {
+			window.location="img_0830.html?show_param=" + show_param;
+		}
+		else if(show_param > 0) 
+			window.status='Time left: '+(show_delay + 1)+' s';
+	}
+	setTimeout('show_timer()', 1000);	
+}
+function show_over() { 
+	document.show.src = (show_param >= 0)? stop1.src : show1.src;
+	window.status = 'Start/Stop slideshow - Double-Click to change speed';
+}
+function show_out() {
+	document.show.src = (show_param >= 0)? stop0.src : show0.src;
+}
+function show_down() {
+	if (show_param >= 0) { 
+		show_param = -1; 
+		document.show.src = stop1.src; 
+		window.status=''; 
+	} 
+	else { 
+		show_param = 5; 
+		document.show.src = show1.src; 
+	} 
+	show_delay = show_param; 
+}
+function change_delay() { 
+	delay = prompt('delay', (show_param < 0)? 5 : show_param);
+	show_param = show_delay = delay; 
+	document.show.src = show1.src;
+}
+
+
+</script>
+
+
+
+<link href="../../res/styles.css" rel="stylesheet">
+
+<style type="text/css">
+body { background-image: url(../../res/bg.jpg); background-repeat: repeat-x; }
+</style>
+</HEAD>
+
+<BODY ID="body" onload="show_timer(); show_out(); keypresslistener();">
+<CENTER>
+<TABLE style="height:54px;" cellspacing="0" cellpadding="0" border="0">
+<TR><TD valign="middle">
+<!-- Header of slide pages -->
+<TABLE style="width:802px;" cellspacing="0" cellpadding="0" border="0">
+<TR>
+<TD style="width:31px;"><a href="../index2.html" onmouseover="document.idx.src=idx1.src" onmouseout="document.idx.src=idx0.src"><img src="../../res/idx.gif" width="31" height="31" border="0" title="Index page" name="idx" alt=""></a></TD>
+<TD style="width:20px;"><IMG SRC="../../res/hdr_left.gif" width="20" height="31" border="0" alt=""></TD>
+<TD align="left" valign="middle" style="background:url(../../res/hdr_mid.gif);" class="title" nowrap="nowrap"><a href="../../index.html">Sulejow Photo</a> &raquo; <a href="../index.html">2007-07-22</a></TD>
+<TD style="width:20px;"><IMG SRC="../../res/hdr_right.gif" width="20" height="31" border="0" alt=""></TD>
+<TD style="width:31px;">
+<a href="img_0825.html" onmouseover="document.prev.src=prev1.src" onmouseout="document.prev.src=prev0.src"><img src="../../res/prev.gif" width="31" height="31" border="0" title="Previous image" name="prev" alt=""></a></TD>
+<TD style="width:31px;">
+<a href="img_0830.html" onmouseover="document.next.src=next1.src" onmouseout="document.next.src=next0.src"><img src="../../res/next.gif" width="31" height="31" border="0" title="Next image" name="next" alt=""></a></TD>
+<TD style="width:31px;"><a href="javascript:void(0)" onmouseover="show_over();" onmouseout="show_out();" onmousedown="show_down();" ondblclick="change_delay();"><img src="../../res/show.gif" width="31" height="31" border="0" title="Start/Stop slideshow - Double-Click to change speed" name="show" alt=""></a></TD>
+</TR></TABLE>
+</TD></TR></TABLE><BR>
+
+
+
+<map name="imagemap" style="text-decoration:none"><area coords="0,0,266,533" href="img_0825.html" title="Previous image" alt=""><area coords="533,0,800,533" href="img_0830.html" title="Next image" alt=""><area coords="266,0,533,533" href="../index2.html" title="Index page" alt=""></map>
+<TABLE border="0" cellspacing="0" cellpadding="0"><TR>
+<TD valign="top"><TABLE style="width:64px;"><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0821.html"><IMG src="../thumbs/img_0821.jpg" title="img_0821.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0822.html"><IMG src="../thumbs/img_0822.jpg" title="img_0822.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0823.html"><IMG src="../thumbs/img_0823.jpg" title="img_0823.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0824.html"><IMG src="../thumbs/img_0824.jpg" title="img_0824.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0825.html"><IMG src="../thumbs/img_0825.jpg" title="img_0825.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR></TABLE></TD><TD style="width:12px">&nbsp;</TD>
+<TD style="width:802px;" align="center" valign="middle">
+<IMG SRC="img_0829.jpg" class="slideImage" width="800" height="533" TITLE="Downsized Image [img_0829.jpg - 2937kB]" usemap="#imagemap" alt=""></TD>
+<TD style="width:12px">&nbsp;</TD><TD valign="bottom"><TABLE style="width:64px;"><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0830.html"><IMG src="../thumbs/img_0830.jpg" title="img_0830.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0831.html"><IMG src="../thumbs/img_0831.jpg" title="img_0831.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0832.html"><IMG src="../thumbs/img_0832.jpg" title="img_0832.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0833.html"><IMG src="../thumbs/img_0833.jpg" title="img_0833.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR><TR><TD align="center" valign="middle" style="padding:4px; border:0px; height:50px" class="thumb"><A href="img_0834.html"><IMG src="../thumbs/img_0834.jpg" title="img_0834.jpg" width="48" height="31" alt="" class="mthumb"></A></TD></TR></TABLE></TD></TR></TABLE>
+<BR><!-- Comment and image data at BOTTOM -->
+<TABLE style="width:802px;" class="infotable" cellspacing="0" cellpadding="2">
+<TR><TD style="width:783px;" align="center" valign="middle" class="smalltxt"><span class="comment">img 0829</span></TD>
+
+<TD align="center" valign="middle"><A href="img_0829.jpg" target="_blank"><IMG src="../../res/download.gif" title="Download Image" width="17" height="17" border="0" alt=""></A></TD><!-- Download Image -->
+</TR>
+<TR><TD colspan="2" align="center" valign="middle" class="smalltxt"><a href="img_0770.html" title="First page">&laquo; </a>|<a href="img_0824.html" title="Previous page"> &lt; </a>|<a href="img_0825.html">&nbsp;25&nbsp;</a>|<span class="current">&nbsp;26&nbsp;</span>|<a href="img_0830.html">&nbsp;27&nbsp;</a>|<a href="img_0831.html">&nbsp;28&nbsp;</a>|<a href="img_0832.html">&nbsp;29&nbsp;</a>|<a href="img_0833.html">&nbsp;30&nbsp;</a>|<a href="img_0834.html">&nbsp;31&nbsp;</a>|<a href="img_0835.html">&nbsp;32&nbsp;</a>|<a href="img_0837.html">&nbsp;33&nbsp;</a>|<a href="img_0839.html">&nbsp;34&nbsp;</a>|<a href="img_0840.html">&nbsp;35&nbsp;</a>|<a href="img_0841.html">&nbsp;36&nbsp;</a>|<a href="img_0842.html">&nbsp;37&nbsp;</a>|<a href="img_0844.html">&nbsp;38&nbsp;</a>|<a href="IMG_5154.html">&nbsp;39&nbsp;</a>|<a href="IMG_5153.html">&nbsp;40&nbsp;</a>|<a href="img_0772.html">&nbsp;41&nbsp;</a>|<a href="img_0786.html">&nbsp;42&nbsp;</a>|</TD></TR>
+
+
+<TR><TD colspan="2" align="center" valign="middle"><script type="text/javascript">
+<!--
+function rgb2hex(c) {
+	var hex = '';
+	var array = /([0-9]+)[, ]+([0-9]+)[, ]+([0-9]+)/.exec(c);
+	for(i = 1; i < 4; i++) hex += ('0' + parseInt(array[i]).toString(16)).slice(-2);
+	return '#' + hex;
+}
+function colorOf(elname) {
+	if((el = document.getElementById(elname)) != null) {
+		if(el.currentStyle) return el.currentStyle["color"];
+		else if(window.getComputedStyle) return rgb2hex(document.defaultView.getComputedStyle(el, "").getPropertyValue("color"));
+	}
+	return "#888888";
+}
+var color = colorOf("body");
+document.write('<object type="application/x-shockwave-flash" width="500" height="150" data="../../guestbook/guestbook.swf">');
+document.write('  <param name="flashvars" value="xmlfile=2007_07_22_img_0829_jpg.xml&xmlphp_path=../../guestbook/&countcolor=' + color + '&usercolor=#CC8844&commentscolor=' + color + '&pagelabel=Page&namelabel=Name&msglabel=Message&nameerror=Please fill out your name!&msgerror=Please leave a message!&welcomemsg=Be the first to post a comment!"/>');
+document.write('  <param name="movie" value="../../guestbook/guestbook.swf"/>');
+document.write('  <param name="wmode" value="transparent"/>');
+document.write('<\/object>');
+-->
+</script></TD></TR>
+
+
+</TABLE>
+
+<BR><SPAN class="xsmalltxt"><a href="http://www.naspocie.pl">NaSpocie</a> | <a href="mailto:michalg@naspocie.pl" target="_blank">Mail</a> | Generated by <a href="http://jalbum.net" title="JAlbum - Freeware web photo album generator" target="_blank">JAlbum 7.1</a> &amp; <a href="http://lazaworx.com" title="Chameleon v4.03 3D_light skin by lazaWORX" target="_blank">Chameleon</a> | <A href="javascript:void(0)" onClick="window.open('../../help.html','Help','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Help</A></SPAN>
+<BR>&nbsp;</CENTER>
+
+<script language="javascript" type="text/javascript">
+next_image=new Image(); next_image.src="img_0830.jpg";
+</script>
+<script language="javascript" type="text/javascript">
+previous_image=new Image(); previous_image.src="img_0825.jpg";
+</script>
+</BODY>
+</HTML>

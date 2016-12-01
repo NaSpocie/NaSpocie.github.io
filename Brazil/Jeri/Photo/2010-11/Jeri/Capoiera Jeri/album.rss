@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Capoiera Jeri</title>
+   	<link>../../..</link>
+   	
+        
+        
+        <item>
+            <title>IMG_0686</title>
+            <link>slides/IMG_0686.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0686.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0686.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0686.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0924</title>
+            <link>slides/IMG_0924.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0924.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0924.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0924.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0928</title>
+            <link>slides/IMG_0928.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0928.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0928.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0928.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0931</title>
+            <link>slides/IMG_0931.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0931.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0931.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0931.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0933</title>
+            <link>slides/IMG_0933.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0933.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0933.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0933.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0936</title>
+            <link>slides/IMG_0936.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0936.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0936.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0936.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0939</title>
+            <link>slides/IMG_0939.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0939.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0939.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0939.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_0940</title>
+            <link>slides/IMG_0940.html</link>
+            <pubDate>Sat, 03 Dec 2011 22:08:24 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/IMG_0940.JPG" width="124" height="82"/>
+            <media:content url="slides/IMG_0940.JPG" width="800" height="533"/>
+            
+            <guid isPermaLink="false">slides/IMG_0940.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

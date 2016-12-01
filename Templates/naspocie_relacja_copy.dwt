@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+.Tekst {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 16px;
+	padding-right: 12px;
+	padding-left: 12px;
+	width: 572px;
+	color: #000000;
+}
+.Title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FF9900;
+	background-image: none;
+	background-repeat: no-repeat;
+	padding-right: 12px;
+	padding-left: 12px;
+}
+.blue_pasek {
+	background-image: url(../Moroco/Essaouira/Blog/kwadrat_title_L.gif);
+	background-repeat: repeat-y;
+}
+.blue_pasek_P {
+	background-image: url(../Moroco/Essaouira/Blog/kwadrat_title_P.gif);
+}
+.menu_lewe {
+	background-image: url(../Moroco/Essaouira/Blog/bar.gif);
+	background-repeat: no-repeat;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 55px;
+	color: #FFFFFF;
+}
+body {
+	background-color: #CCCCCC;
+}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #FF9900;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+body,td,th {
+	color: #FFFFFF;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3"><!-- TemplateBeginEditable name="naglowek" --><img src="../Moroco/Essaouira/Blog/pasek_gorny.jpg" alt="fala_top" width="800" height="249" /><!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td width="150" bgcolor="#FFFFFF" class="blue_pasek_P">&nbsp;</td>
+    <td width="580" align="center" valign="top" bgcolor="#FFFFFF"><img src="../Moroco/Essaouira/Blog/title_bar.gif" alt="noname" width="600" height="20" /></td>
+    <td width="50" class="blue_pasek_P">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" bordercolor="3096ff" bgcolor="3096ff"><img src="../Moroco/Essaouira/Blog/kwadrat_title_L.gif" alt="noname" width="150" height="60" /></td>
+    <td width="0" align="left" valign="middle" bgcolor="#FFFFFF" class="Title"><!-- TemplateBeginEditable name="Title" -->Title<!-- TemplateEndEditable --></td>
+    <td width="0" bgcolor="3096ff" class="blue_pasek_P">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" bordercolor="3096ff" bgcolor="3096ff" class="blue_pasek"><table width="150" height="290" border="0" cellpadding="0" cellspacing="0">
+      <!--DWLayoutTable-->
+      <tr>
+        <td height="58" align="left" class="menu_lewe"><a href="../Moroco/Essaouira/Blog/index.html">Jedziemy do Maroka </a></td>
+      </tr>
+      <tr>
+        <td height="58" align="left" class="menu_lewe"><p><a href="../Moroco/Essaouira/Blog/relacja2.html">Windsurfing Essaouira</a> </p>          </td>
+      </tr>
+      <tr>
+        <td height="58" align="left" class="menu_lewe"><p><a href="../Moroco/Essaouira/Blog/relacja3.html">Moulay Wave Clinic</a> </p>          </td>
+      </tr>
+      <tr>
+        <td height="58" align="left" class="menu_lewe"><strong><a href="../Moroco/Essaouira/Blog/relacja4.html">Co poza p&#322;ywaniem </a></strong></td>
+      </tr>
+      <tr>
+        <td height="58">&nbsp;</td>
+      </tr>
+    </table></td>
+    <td align="left" valign="top" bgcolor="#FFFFFF" class="Tekst"><!-- TemplateBeginEditable name="Tekst" -->Tekst<!-- TemplateEndEditable --></td>
+    <td width="0" bgcolor="3096ff" class="blue_pasek_P">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="left" valign="top"><img src="../Moroco/Essaouira/Blog/relacja_pasek_dolny.jpg" alt="bottom" width="800" height="147" /></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

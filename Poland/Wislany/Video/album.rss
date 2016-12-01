@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Wislany Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Tolkmicko 2009-06-14</title>
+            <link>Tolkmicko 2009-06-14.flv</link>
+            <pubDate>Tue, 16 Feb 2010 21:03:57 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Doktor Jekyll i pan Hyde" ® by JacekS</description>
+            <media:description type="html">"Doktor Jekyll i pan Hyde" ® by JacekS</media:description>
+            
+            <media:thumbnail url="thumbs/Tolkmicko 2009-06-14.jpg" width="124" height="93"/>
+            <media:content url="slides/Tolkmicko 2009-06-14.jpg" width="300" height="225"/>
+            <jalbum:original url="Tolkmicko 2009-06-14.flv" width="300" height="225" fileSize="12473154"/>
+            <guid isPermaLink="false">slides/Tolkmicko 2009-06-14.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Kadyny pazdziernik 09</title>
+            <link>Kadyny pazdziernik 09.flv</link>
+            <pubDate>Tue, 16 Feb 2010 21:03:57 +0100</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>"Atak na Kadyny" ® by DarekF</description>
+            <media:description type="html">"Atak na Kadyny" ® by DarekF</media:description>
+            
+            <media:thumbnail url="thumbs/Kadyny pazdziernik 09.jpg" width="124" height="92"/>
+            <media:content url="slides/Kadyny pazdziernik 09.jpg" width="300" height="224"/>
+            <jalbum:original url="Kadyny pazdziernik 09.flv" width="300" height="224" fileSize="35156838"/>
+            <guid isPermaLink="false">slides/Kadyny pazdziernik 09.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

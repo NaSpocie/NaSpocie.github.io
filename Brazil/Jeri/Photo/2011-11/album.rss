@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2011-11</title>
+   	<link>..</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Ela i Majka/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Grzes/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Jacek/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Michał/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Wymiatacze/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Jericoacoara/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Pousada do Serrote/album.rss" />   	
+    	
+        
+    </channel>
+</rss>
