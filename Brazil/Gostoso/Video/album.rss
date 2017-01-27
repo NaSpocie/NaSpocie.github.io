@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Gostoso Video</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>Gostoso Heroes</title>
+            <link>Gostoso Heroes.mp4</link>
+            <pubDate>Thu, 26 Jan 2017 21:07:55 +0000</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/Gostoso Heroes.jpg" width="124" height="71"/>
+            <media:content url="slides/Gostoso Heroes.jpg" width="349" height="200"/>
+            <jalbum:original url="Gostoso Heroes.mp4" width="349" height="200" fileSize="65202182"/>
+            <guid isPermaLink="false">slides/Gostoso Heroes.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Gostoso Samba</title>
+            <link>Gostoso Samba.mp4</link>
+            <pubDate>Thu, 26 Jan 2017 21:07:55 +0000</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/Gostoso Samba.jpg" width="124" height="69"/>
+            <media:content url="slides/Gostoso Samba.jpg" width="1024" height="571"/>
+            <jalbum:original url="Gostoso Samba.mp4" width="1108" height="618" fileSize="87333503"/>
+            <guid isPermaLink="false">slides/Gostoso Samba.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Gostoso Zumba</title>
+            <link>Gostoso Zumba.mp4</link>
+            <pubDate>Thu, 26 Jan 2017 21:07:55 +0000</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/Gostoso Zumba.jpg" width="124" height="75"/>
+            <media:content url="slides/Gostoso Zumba.jpg" width="780" height="475"/>
+            <jalbum:original url="Gostoso Zumba.mp4" width="780" height="475" fileSize="87167472"/>
+            <guid isPermaLink="false">slides/Gostoso Zumba.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
